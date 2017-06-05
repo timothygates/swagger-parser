@@ -11,7 +11,7 @@ Swagger Parser v4.0 is currently in beta, and its API may change slightly before
 -----------------------------------
 
 
-[![Build Status](https://api.travis-ci.org/BigstickCarpet/swagger-parser.svg)](https://travis-ci.org/BigstickCarpet/swagger-parser)
+[![Build Status](https://api.travis-ci.org/BigstickCarpet/swagger-parser.svg?branch=master)](https://travis-ci.org/BigstickCarpet/swagger-parser)
 [![Dependencies](https://david-dm.org/BigstickCarpet/swagger-parser.svg)](https://david-dm.org/BigstickCarpet/swagger-parser)
 [![Coverage Status](https://coveralls.io/repos/BigstickCarpet/swagger-parser/badge.svg?branch=master&service=github)](https://coveralls.io/r/BigstickCarpet/swagger-parser)
 [![Code Climate Score](https://codeclimate.com/github/BigstickCarpet/swagger-parser/badges/gpa.svg)](https://codeclimate.com/github/BigstickCarpet/swagger-parser)
